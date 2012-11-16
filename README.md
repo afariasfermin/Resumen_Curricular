@@ -1,4 +1,4 @@
-Resumen_Curricular
+Resumen Curricular
 ==================
 
 Currículum Vítae Hecho en LaTeX
