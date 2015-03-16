@@ -17,7 +17,7 @@
 \firstname{Alvaro}
 \familyname{Far\'ias}
 \title{Currículum V\'itae - Alvaro Luis Far\'ias Ferm\'in}
-\address{Av. El Carmen Qta Isol Nro. 13, Tío Pedro, Carúpano, Edo. Sucre, Venezuela, Zona Postal 6150.}{}
+\address{Avenida El Carmen Qta Isol Nro. 13, Sector Tío Pedro, Carúpano, Edo. Sucre, Venzuela, Zona Postal 6150.}{}
 \mobile{+58 (424)-834-6743}
 \phone{+58 (294)-3320025}
 \email{afarias@intecve.com}
@@ -71,6 +71,8 @@
 
 \section{Investigaciones y Publicaciones}
 \cventry{2011}{Proyecto de Investigaci\'on}{Sistema Computarizado de Gesti\'on Administrativa para la Facturaci\'on y Control de Espacios Publicitarios de la Emisora Feliz 104.7 FM}{Instituto Universitario de Tecnolog\'ia Jacinto Navarro Vallenilla. (IUTJNV)}{Evaluado el 05/12/2011}{}
+\cventry{2012}{Proyecto de Investigaci\'on}{Tuqueque PHP Framework, n\'ucleo para arquitecturas MVC modulares}{\textit{Desarrollado en PHP}}{}{}\hfill{\itshape\color{blue}\footnotesize{}Actualmente en Desarrollo}
+\cventry{2012}{Proyecto de Investigaci\'on}{Arrau CSS Framework, front-end para desarrollo Web}{\textit{Grid CSS}}{}{}\hfill{\itshape\color{blue}\footnotesize{}Actualmente en Desarrollo}
 
 \closesection{}
 
@@ -87,9 +89,9 @@
 
 \cvcomputer{SO:}{GNU/Linux, Windows.}{Admin:}{Web, Proxy, SSH, DNS, FTP y Correo.}
 \cvcomputer{Ofim\'atica:}{Microsoft Office (Word, PowerPoint, Excel, Access) y LibreOffice.}{Hardware:}{Ensamble de Equipos, Diagnostico de Fallas, Mantenimiento Preventivo del Computador.}
-\cvcomputer{Programaci\'on Estructurada y OOP:}{Visual Basic.NET, Gambas, Python, PHP (y librerías GTK, QT).}{Utilidades:}{NetBeans, Nano, Atom, Gedit.}
+\cvcomputer{Programaci\'on Estructurada y OOP:}{Visual Basic.NET, Gambas, Python, PHP (y librerías GTK, QT).}{Utilidades:}{NetBeans, Geany, Vim, Nano, Atom, Gedit.}
 \cvcomputer{Scripting:}{Bash Scripting, C-Shell, PHP Avanzado.}{Maquetaci\'on:}{\LaTeX}
-\cvcomputer{Diseño Web:}{HTML5, CSS3, Stylus, Javascript, JQuery.}{Base de datos:}{MySQL, MariaDB, MongoDB, PostgreSQL.}
+\cvcomputer{Diseño Web:}{HTML5, XML, CSS3, JQuery.}{Base de datos:}{MySQL, MariaDB, MongoDB, PostgreSQL.}
 \cvcomputer{Diseño Gr\'afico:}{Gimp, Inkscape.}{}{}
 
 \end{document}
