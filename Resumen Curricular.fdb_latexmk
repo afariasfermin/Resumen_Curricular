@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1426479921 "Resumen Curricular.tex" "Resumen Curricular.pdf" "Resumen Curricular" 1426479922
+["pdflatex"] 1426534886 "Resumen Curricular.tex" "Resumen Curricular.pdf" "Resumen Curricular" 1426534887
   "/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc" 1407968438 2375 baa924870cfb487815765f9094cf3728 ""
   "/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc" 1407968438 2840 216e6e45ad352e2456e1149f28885bee ""
   "/usr/share/texmf-dist/fonts/map/fontname/texfonts.map" 1407968436 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
@@ -183,11 +183,11 @@
   "/usr/share/texmf/tex/latex/moderncv/tweaklist.sty" 1426478973 1966 8ce3a021c0bc6369db88faeddf828d71 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1426478952 1360548 0a95fa81b2740b9443e39a68b247c73d ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1426475911 7194338 962a69a8d5547290800d0a496694cdb2 ""
-  "Resumen Curricular.aux" 1426479921 1517 b02f0854b6f280289388a251beaab0b1 ""
-  "Resumen Curricular.out" 1426479921 609 d2b94c1757c2baf977e9cbf227ad1df3 ""
-  "Resumen Curricular.tex" 1426479919 5773 4c7dbbc502c1768b09fa3d8c432f87e2 ""
+  "Resumen Curricular.aux" 1426534887 1517 b02f0854b6f280289388a251beaab0b1 ""
+  "Resumen Curricular.out" 1426534887 609 d2b94c1757c2baf977e9cbf227ad1df3 ""
+  "Resumen Curricular.tex" 1426534884 5778 7c1006ee5edc0dab20fffa70b545db7c ""
   (generated)
-  "Resumen Curricular.aux"
-  "Resumen Curricular.log"
-  "Resumen Curricular.out"
   "Resumen Curricular.pdf"
+  "Resumen Curricular.out"
+  "Resumen Curricular.log"
+  "Resumen Curricular.aux"
