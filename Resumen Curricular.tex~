@@ -2,10 +2,15 @@
 
 \moderncvtheme[blue]{casual}
 
+\usepackage[NoDate]{currvita}
+\usepackage{graphicx}
+\usepackage{xcolor}
 \usepackage[utf8]{inputenc}
 \usepackage[scale=0.8]{geometry}
 \usepackage{hyperref}
 
+\renewcommand{\cvheadingfont}{\bfseries\itshape\Huge}
+\renewcommand{\cvlistheadingfont}{\bfseries\itshape\Large}
 \hypersetup{colorlinks,breaklinks,urlcolor=cyan,linkcolor=cyan, pdfauthor={Alvaro Farias},pdftitle={CV for Alvaro Farias}}
 
 \firstname{Alvaro}
