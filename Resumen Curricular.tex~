@@ -2,25 +2,20 @@
 
 \moderncvtheme[blue]{casual}
 
-\usepackage[NoDate]{currvita}
-\usepackage{graphicx}
-\usepackage{xcolor}
 \usepackage[utf8]{inputenc}
 \usepackage[scale=0.8]{geometry}
 \usepackage{hyperref}
 
-\renewcommand{\cvheadingfont}{\bfseries\itshape\Huge}
-\renewcommand{\cvlistheadingfont}{\bfseries\itshape\Large}
 \hypersetup{colorlinks,breaklinks,urlcolor=cyan,linkcolor=cyan, pdfauthor={Alvaro Farias},pdftitle={CV for Alvaro Farias}}
 
-\firstname{Alvaro}
-\familyname{Far\'ias}
-\title{Currículum V\'itae - Alvaro Luis Far\'ias Ferm\'in}
+\firstname{Alvaro Luis}
+\familyname{Far\'ias Ferm\'in}
+\title{Resumen Curricular}
 \address{Av. El Carmen Qta Isol Nro. 13, Tío Pedro, Carúpano, Edo. Sucre, Venezuela, Zona Postal 6150.}{}
 \mobile{+58 (424)-834-6743}
 \phone{+58 (294)-3320025}
-\email{afariasfermin@gmail.com}
-\homepage{https://piryguiry.github.io}
+\email{afariasfermin@gmail.com}  
+\homepage{piryguiry.github.io}
 
 \PassOptionsToPackage{unicode,final}{hyperref}
 
@@ -30,10 +25,10 @@
 
 \section{Formaci\'on Acad\'emica}
 \cventry{2011}{Instituto Universitario de Tecnolog\'ia Jacinto Navarro Vallenilla. (IUTJNV)}{}{}
-\hfill{\itshape\color{blue}\footnotesize{}Titulo Obetino: T\'ecnico Superior en Inform\'atica}
+\hfill{\itshape\color{blue}\footnotesize{}Titulo Obtenido: T\'ecnico Superior en Inform\'atica}
 
 \cventry{2015}{Universidad Polit\'ecnica Territorial de Paria "Luis Mariano Rivera". (UPTP)}{}{}
-\hfill{\itshape\color{blue}\footnotesize{}Titulo Obetino: Ingeniero en Inform\'atica}
+\hfill{\itshape\color{blue}\footnotesize{}Titulo Obtenido: Ingeniero en Inform\'atica}
 
 
 
@@ -47,7 +42,7 @@
 \cventry{2010}{Soporte T\'ecnico a Equipos e Instalaci\'on de Redes}{Soluciones Inform\'atica C.A J-40248995-1}{T\'ecnico}{}{}
 \cventry{2011}{Desarrollo e Innovaci\'on Tecnol\'ogica}{Asociaci\'on Civil Educaci\'on y GNU J-21753686-7}{Desarrollador}{}{}\hfill{\itshape\color{blue}\footnotesize{}Activista de la Comunidad}
 \cventry{2014}{Soporte T\'ecnico a Equipos e Instalaci\'on de Redes}{J.L.R. System Solution C.A J-30390090-9, Contratista por el Consejo Nacional Electoral}{Asistente Regional}{}{}
-\cventry{2015}{Back-end Developer}{Hispanos Soluciones C.A. J-40683978-7}{Actualmente}{}{}
+\cventry{2015}{Back-end Developer}{Hispanos Soluciones C.A. J-40683978-7}{}{}{}\hfill{\itshape\color{blue}\footnotesize{}Actualmente}
 
 \closesection{}
 \pagebreak{}
@@ -62,10 +57,11 @@
 \section{Eventos y Tutoriales}
 \cventry{2007}{Asistente}{3CNSL Tercer Congreso Nacional de Software Libre}{Universidad de Oriente (UDO), Puerto la Cruz, Edo. Anzo\'ategui, Venezuela}{16h}{Realizado entre 11/05/2007 y 12/05/2007}{}
 \cventry{2011}{Asistente}{7CNSL S\'eptimo Congreso Nacional de Software Libre}{Universidad Nacional Experimental Polit\'ecnica de la Fuerza Armada Nacional (UNEFA), Caracas, Dto. Capital, Venezuela}{16h}{Realizado entre 29/07/2011 y 30/07/2011}{}
-\cventry{2011}{Asistente}{Seminario del Dr. Richard Stallman}{Ateneo de Car\'upano, Car\'upano, Edo. Sucre, Venezuela}{6h}{realizado el 05/08/2011}{}
-\cventry{2012}{Asistente}{Security Training, Ethical Hacking Pr\'actico}{Mkit IT \& Security Solutions, Argentina, Curso a distancia modalidad E-learning}{8h}{realizado entre 08/03/2012 y 09/03/2012}{}
-\cventry{2012}{Asistente}{FLISOL(Festival Latinoamericano de Software Libre)}{Instituto Universitario de Tecnolog\'ia Jacinto Navarro Vallenilla. (IUTJNV), Edo. Sucre, Venezuela}{8h}{realizado el 28/04/2012}{}
+\cventry{2011}{Asistente}{Seminario del Dr. Richard Stallman}{Ateneo de Car\'upano, Car\'upano, Edo. Sucre, Venezuela}{6h}{Realizado el 05/08/2011}{}
+\cventry{2012}{Asistente}{Security Training, Ethical Hacking Pr\'actico}{Mkit IT \& Security Solutions, Argentina, Curso a distancia modalidad E-learning}{8h}{Realizado entre 08/03/2012 y 09/03/2012}{}
+\cventry{2012}{Asistente}{FLISOL(Festival Latinoamericano de Software Libre)}{Instituto Universitario de Tecnolog\'ia Jacinto Navarro Vallenilla. (IUTJNV), Edo. Sucre, Venezuela}{8h}{Realizado el 28/04/2012}{}
 \cventry{2014}{Asistente}{10CNSL Decimo Congreso Nacional de Software Libre}{Universidad Polit\'ecnica Territorial de Paria "Luis Mariano Rivera". (UPTP), Carupano, Edo. Sucre, Venezuela}{16h}{Realizado entre 27/06/2014 y 28/06/2014}{}
+\cventry{2016}{Asistente}{XII Congreso Interactivo de Ingen\'ieria de Sistema, Inform\'atica y Telecomunicaciones}{Hotel Tibisay, Edo. M\'erida, Venezuela}{16h}{Realizado entre el 21/07/2016 y 23/07/2016}{}
 \closesection{}
 
 \section{Investigaciones y Publicaciones}
@@ -73,22 +69,23 @@
 
 \closesection{}
 
+\pagebreak
+
 \section{Repositorio de Código Fuente Público}
-\begin{cvlist}{}
-\item[\textit{\large{github}}]{\href{http://github.com/piryguiry}{github.com/piryguiry}}
-\end{cvlist}
+\cvline{Github}{\href{https://github.com/piryguiry}{github.com/piryguiry}}
 
 \section{Idiomas}
 \cvlanguage{Español}{Nativo}{}
-\cvlanguage{Ingl\'es}{Nivel medio}{}
+\cvlanguage{Ingl\'es}{Intermedio}{}
 
 \section{Conocimientos}
 
+\cvcomputer{Patrones de Diseño:}{UML, MVC, MVVM.}{Metodolog\'ias:}{RUP, UP, Scrum, XP.}
 \cvcomputer{SO:}{GNU/Linux, Windows.}{Admin:}{Web, Proxy, SSH, DNS, FTP y Correo.}
 \cvcomputer{Ofim\'atica:}{Microsoft Office (Word, PowerPoint, Excel, Access) y LibreOffice.}{Hardware:}{Ensamble de Equipos, Diagnostico de Fallas, Mantenimiento Preventivo del Computador.}
-\cvcomputer{Programaci\'on Estructurada y OOP:}{Visual Basic.NET, Gambas, Python, PHP (y librerías GTK, QT).}{Utilidades:}{NetBeans, Nano, Atom, Gedit.}
+\cvcomputer{Programaci\'on Estructurada y OOP:}{Visual Basic.NET, Gambas, Python, PHP (y librerías GTK, QT).}{Utilidades:}{Vim, Nano, Gedit.}
 \cvcomputer{Scripting:}{Bash Scripting, C-Shell, PHP Avanzado.}{Maquetaci\'on:}{\LaTeX}
-\cvcomputer{Diseño Web:}{HTML5, CSS3, Stylus, Javascript, JQuery.}{Base de datos:}{MySQL, MariaDB, MongoDB, PostgreSQL.}
-\cvcomputer{Diseño Gr\'afico:}{Gimp, Inkscape.}{}{}
+\cvcomputer{Diseño Web:}{HTML5, CSS3, Stylus/SASS, Javascript, JQuery, Bower, Grunt, Gulp.}{Base de datos:}{MySQL, MariaDB, MongoDB, PostgreSQL.}
+\cvcomputer{Diseño Gr\'afico:}{Gimp.}{Control de Versiones:}{Git / Git Flow}
 
 \end{document}
